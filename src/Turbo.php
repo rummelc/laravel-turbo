@@ -1,6 +1,6 @@
 <?php
 
-namespace JohnnyFreeman\LaravelTurbo;
+namespace RummelCeniza\LaravelTurbo;
 
 class Turbo
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace JohnnyFreeman\LaravelTurbo;
+namespace RummelCeniza\LaravelTurbo;
 
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Request;

@@ -17,13 +17,13 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "JohnnyFreeman\\LaravelTurbo\\": "src/"
+            "RummelCeniza\\LaravelTurbo\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "JohnnyFreeman\\LaravelTurbo\\TurboServiceProvider"
+                "RummelCeniza\\LaravelTurbo\\TurboServiceProvider"
             ]
         }
     },

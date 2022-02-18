@@ -7,7 +7,7 @@ Some lightweight tools for sending Turbo Streams to the front end.
 You can install the package via composer:
 
 ```bash
-composer require johnnyfreeman/laravel-turbo
+composer require rummelceniza/laravel-turbo
 ```
 
 ## Usage

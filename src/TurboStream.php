@@ -1,6 +1,6 @@
 <?php
 
-namespace JohnnyFreeman\LaravelTurbo;
+namespace RummelCeniza\LaravelTurbo;
 
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Response;

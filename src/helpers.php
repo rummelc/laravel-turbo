@@ -3,7 +3,7 @@
 use Illuminate\Container\Container;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Config;
-use JohnnyFreeman\LaravelTurbo\TurboStream;
+use RummelCeniza\LaravelTurbo\TurboStream;
 use Illuminate\Contracts\View\View as ViewContract;
 use Illuminate\View\Compilers\ComponentTagCompiler;
 
